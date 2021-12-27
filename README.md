@@ -77,6 +77,21 @@ jwt.secret=testjwtauth
 
 ![Jwt-token-hello](https://user-images.githubusercontent.com/67745525/147435332-734bb204-c298-4ef9-8ec9-f09fb5475891.png)
 
+###### JSON Web Token structure
+In its compact form, JSON Web Tokens consist of three parts separated by dots (.), which are:</br>
+```
+Header
+Payload
+Signature
+
+Therefore, a JWT typically looks like the following.
+
+xxxxx.yyyyy.zzzzz
+```
+
+###### Additional reading 
+
+https://jwt.io/introduction
 #### Done !
 
 
