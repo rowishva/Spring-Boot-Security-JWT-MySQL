@@ -94,4 +94,7 @@ xxxxx.yyyyy.zzzzz
 https://jwt.io/introduction
 #### Done !
 
+## Author
+ * [Roshitha Wishvajith](https://github.com/rowishva?tab=repositories)
+
 
